@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hai, I'm Nishma!
+👋 Hi, I'm Nishma! A passionate MERN Stack Developer who loves building scalable and user-friendly web applications<br>
 
 
 ## 🌐 Socials:
